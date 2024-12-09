@@ -1,5 +1,3 @@
-# Cybersecurity Internship Projects
-This projects was developed during my internship at Prodigy InfoTech, where I dedicated my efforts to advancing my skills in cybersecurity tool development. This project reflects the knowledge and experience I acquired. The objective of this project is to efficiently create custom tools necessary for ethical hacking.
 # Projects Overview:
 
 ## 1. Caesar Cipher
