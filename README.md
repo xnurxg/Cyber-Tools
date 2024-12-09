@@ -36,11 +36,7 @@ Skills: Network security, Packet analysis
 - Python 3.0 or further Versions
 
 - Additional Libraries
-
-# Acknowledgment:
-
-I would like to express my gratitude to Prodigy for offering me the opportunity to expand my knowledge and skills in the field of cybersecurity through this internship. I am especially thankful to my mentors for their invaluable guidance and support.
-
+- 
 ### Author: Anurag Yadav
 
 
